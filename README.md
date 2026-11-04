@@ -1,4 +1,3 @@
-
 # Lost Along the Way: Statistical Modelling of Youth Dropouts in Orienteering
 
 ## Author: Viktória Kostercová, Lund University 2026
@@ -28,9 +27,7 @@ rate. These include expanding mentorship for beginners beyond initial introducto
 establishing dedicated recreational activities for juniors within the DH18–20 categories, or
 adapting coaching strategies to decrease competitive pressure.
 
-
-**DISCLAIMER:** This public repository serves as an overview of the source code and the work I have done as part of my Master thesis at Lund University. However, it does not contain any of the data (raw or processed) or jupyter notebooks that were part of the data analysis. Please cite my work appropriately.
-
+**DISCLAIMER:** This public repository serves as an overview of the source code and the work I have done as part of my Master thesis at Lund University. However, it does not contain any of the data (raw or processed) or jupyter notebooks that were part of the data analysis. Please cite my work appropriately. The thesis is available at: [lup.lub.lu.se/student-papers/search/publication/9247411](https://lup.lub.lu.se/student-papers/search/publication/9247411)
 
 **Data pre-processing:**
 
